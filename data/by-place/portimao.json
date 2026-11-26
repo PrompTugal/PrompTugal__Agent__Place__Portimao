@@ -537,26 +537,26 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T11:22:44Z",
+  "read_at": "2026-11-26T18:37Z",
   "by": "place.portimao@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Portimão vive 37 dias de Natal com pista de gelo e 60 espetáculos gratuitos",
-   "url": "https://www.barlavento.pt/portimao-vive-37-dias-de-natal-com-pista-de-gelo-e-60-espetaculos-gratuitos/",
+   "title": "Portimão conclui diagnóstico para definir estratégia de turismo até 2035",
+   "url": "https://www.barlavento.pt/portimao-conclui-diagnostico-para-definir-estrategia-de-turismo-ate-2035/",
    "source": "Barlavento",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T11:11:35Z",
+   "read_at": "2026-11-26T18:26:56Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Portimão vive 37 dias de Natal com pista de gelo e 60 espetáculos gratuitos",
-    "url": "https://www.barlavento.pt/portimao-vive-37-dias-de-natal-com-pista-de-gelo-e-60-espetaculos-gratuitos/",
-    "published": "2026-11-26T09:44Z",
+    "title": "Portimão conclui diagnóstico para definir estratégia de turismo até 2035",
+    "url": "https://www.barlavento.pt/portimao-conclui-diagnostico-para-definir-estrategia-de-turismo-ate-2035/",
+    "published": "2026-11-26T15:30Z",
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T11:11:35Z",
+    "read_at": "2026-11-26T18:26:56Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -567,97 +567,9 @@
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
     "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-26T11:11:37Z",
+    "read_at": "2026-11-26T18:26:58Z",
     "mentions_place": true,
     "date": "2026-11-26"
-   },
-   {
-    "title": "Vila do Bispo pede esclarecimentos à ULS Algarve sobre mortes na urgência de Portimão",
-    "url": "https://postal.pt/algarve/vila-do-bispo-pede-esclarecimentos-a-uls-algarve-sobre-mortes-na-urgencia-de-portimao/",
-    "published": "2026-11-25T13:00Z",
-    "date": "2026-11-25",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Portimão&feed=rss2",
-    "read_at": "2026-11-26T11:19:39Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Mais de metade da receita vem dos imóveis: Loulé, Lagos, Tavira e Portimão entre os seis concelhos do país onde o IMI e o IMT mais pesam",
-    "url": "https://postal.pt/nacional/mais-de-metade-da-receita-vem-dos-imoveis-loule-lagos-tavira-e-portimao-entre-os-seis-concelhos-do-pais-onde-o-imi-e-o-imt-mais-pesam/",
-    "published": "2026-11-24T13:15Z",
-    "date": "2026-11-24",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Portimão&feed=rss2",
-    "read_at": "2026-11-26T11:19:39Z",
-    "mentions_place": true
-   },
-   {
-    "title": "PSP detém três jovens por roubo com ameaça de faca em Portimão",
-    "url": "https://postal.pt/algarve/psp-detem-tres-jovens-por-roubo-com-ameaca-de-faca-em-portimao/",
-    "published": "2026-11-23T17:50Z",
-    "date": "2026-11-23",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Portimão&feed=rss2",
-    "read_at": "2026-11-26T11:19:39Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Portimão apresenta em sessão pública as primeiras conclusões do diagnóstico ao turismo",
-    "url": "https://www.barlavento.pt/portimao-apresenta-em-sessao-publica-as-primeiras-conclusoes-do-diagnostico-ao-turismo/",
-    "published": "2026-11-23T16:19Z",
-    "date": "2026-11-23",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Portimão&feed=rss2",
-    "read_at": "2026-11-26T11:19:33Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Márquez dedica aos fãs oitavo título de MotoGP conquistado em Portimão",
-    "url": "https://postal.pt/desporto/marquez-dedica-aos-fas-oitavo-titulo-de-motogp-conquistado-em-portimao/",
-    "published": "2026-11-22T19:25Z",
-    "date": "2026-11-22",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Portimão&feed=rss2",
-    "read_at": "2026-11-26T11:19:39Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Marc Márquez conquista em Portimão o oitavo título mundial de MotoGP",
-    "url": "https://www.barlavento.pt/marc-marquez-oitavo-titulo-motogp-portimao/",
-    "published": "2026-11-22T15:06Z",
-    "date": "2026-11-22",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Portimão&feed=rss2",
-    "read_at": "2026-11-26T11:19:33Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Márquez conquista oitavo título de MotoGP em Portimão e iguala Agostini",
-    "url": "https://postal.pt/desporto/marquez-conquista-oitavo-titulo-de-motogp-em-portimao-e-iguala-agostini/",
-    "published": "2026-11-22T14:25Z",
-    "date": "2026-11-22",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Portimão&feed=rss2",
-    "read_at": "2026-11-26T11:19:39Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Portimão pode coroar Márquez com o oitavo título de MotoGP após sábado de emoções e reviravoltas",
-    "url": "https://postal.pt/desporto/portimao-pode-coroar-marquez-com-o-oitavo-titulo-de-motogp-apos-sabado-de-emocoes-e-reviravoltas/",
-    "published": "2026-11-22T10:00Z",
-    "date": "2026-11-22",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Portimão&feed=rss2",
-    "read_at": "2026-11-26T11:19:39Z",
-    "mentions_place": true
    }
   ]
  }
