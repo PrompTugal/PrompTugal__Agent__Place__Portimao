@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schemas/place.schema.json",
+  "id": "portimao",
+  "type": "place",
+  "name": "Portimão",
+  "kind": "municipality",
+  "located_in": "place:algarve",
+  "matches": [],
+  "source": "https://www.algarveevolution.pt/event/tourism-management-computing-technologies-international-conference-149/register",
+  "neighbours": [
+    {
+      "place": "place:lagoa",
+      "border_km": 10.4,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:lagos",
+      "border_km": 14.5,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:monchique",
+      "border_km": 33.1,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:silves",
+      "border_km": 13.5,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    }
+  ],
+  "at": [
+    -8.537,
+    37.138
+  ],
+  "at_source": {
+    "url": "data/by-place/places.json",
+    "read_at": "2026-11-19T20:05Z",
+    "how": "the place's seat as the by-place list gives it (the map's own point)"
+  }
+}
