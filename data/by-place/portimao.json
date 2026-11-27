@@ -537,7 +537,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:37Z",
+  "read_at": "2026-11-27T18:38:35Z",
   "by": "place.portimao@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -570,6 +570,61 @@
     "read_at": "2026-11-27T18:25:42Z",
     "mentions_place": true,
     "date": "2026-11-26"
+   },
+   {
+    "title": "Portimão vive 37 dias de Natal com pista de gelo e 60 espetáculos gratuitos",
+    "url": "https://www.barlavento.pt/portimao-vive-37-dias-de-natal-com-pista-de-gelo-e-60-espetaculos-gratuitos/",
+    "published": "2026-11-26T09:44Z",
+    "date": "2026-11-26",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Portimão&feed=rss2",
+    "read_at": "2026-11-27T18:33:44Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Portimão apresenta em sessão pública as primeiras conclusões do diagnóstico ao turismo",
+    "url": "https://www.barlavento.pt/portimao-apresenta-em-sessao-publica-as-primeiras-conclusoes-do-diagnostico-ao-turismo/",
+    "published": "2026-11-23T16:19Z",
+    "date": "2026-11-23",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Portimão&feed=rss2",
+    "read_at": "2026-11-27T18:33:44Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Marc Márquez conquista em Portimão o oitavo título mundial de MotoGP",
+    "url": "https://www.barlavento.pt/marc-marquez-oitavo-titulo-motogp-portimao/",
+    "published": "2026-11-22T15:06Z",
+    "date": "2026-11-22",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Portimão&feed=rss2",
+    "read_at": "2026-11-27T18:33:44Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Bezzecchi vence sprint em Portimão e Márquez cai quando seguia em terceiro",
+    "url": "https://www.barlavento.pt/bezzecchi-vence-sprint-marc-marquez-queda-motogp-portimao/",
+    "published": "2026-11-21T15:57Z",
+    "date": "2026-11-21",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Portimão&feed=rss2",
+    "read_at": "2026-11-27T18:33:44Z",
+    "mentions_place": true
+   },
+   {
+    "title": "GRATO promove em Portimão seminário sobre o papel da família no bem-estar das crianças",
+    "url": "https://www.barlavento.pt/seminario-grato-portimao-apoio-familiar-criancas-capaf-aipar/",
+    "published": "2026-11-21T15:14Z",
+    "date": "2026-11-21",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Portimão&feed=rss2",
+    "read_at": "2026-11-27T18:33:44Z",
+    "mentions_place": true
    }
   ]
  }
